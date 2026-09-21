@@ -51,10 +51,3 @@ sistemas com LLMs — RAG, embeddings e orquestração de agentes.
 | **[E-commerce Microservices](https://github.com/Pedro-G-B-Azevedo/ecommerce-microservices-java)** | Microsserviços em Java/Spring Boot com Kafka, saga coreografada e observabilidade |
 | **[Agent Mesh](https://github.com/Pedro-G-B-Azevedo/agent-mesh)** | Framework TypeScript para orquestrar workflows multi-agente como grafo tipado |
 | **[Nexus — Chatbot RAG](https://github.com/Pedro-G-B-Azevedo/gemini-chatbot-rag)** | Chatbot com RAG do zero, function calling e cache de embeddings (Gemini API) |
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-G-B-Azevedo&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-G-B-Azevedo&layout=compact&theme=default&hide_border=true"/>
-</div>
